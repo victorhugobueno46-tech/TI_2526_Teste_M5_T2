@@ -1,4 +1,4 @@
-# Ficha de Avaliação - Folha de Cálculo - Parte Teórica
+# Ficha de Avaliação - Folha de Cálculo - Turno 2
 
 ## Instruções
 
